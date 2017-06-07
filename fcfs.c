@@ -79,7 +79,7 @@ void fcfs()
       if(idle==0)
       {
       idle=1;
-      strcpy(d[num].name,"delay");
+      strcpy(d[num].name,"idle");
       d[num].st=i;
       i++;
       }
