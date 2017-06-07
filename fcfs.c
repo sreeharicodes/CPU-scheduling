@@ -120,27 +120,6 @@ void display()
 	printf("%d\n",d[i-1].ct);
   printf("\n");
 
-  /*for(j=0;j<=n;j++)
-  {
-    printf("______________");
-  }
-  printf("\n");
-  for(j=0;j<n;j++)
-  {
-    printf("|%s",d[j].name);
-  }
-  printf("|\n");
-
-  for(j=0;j<=n;j++)
-  {
-    printf("______________");
-  }
-  printf("\n");
-  for(j=0;j<n;j++)
-  {
-    printf("%d\t",d[j].st);
-  }
-  printf("%d",d[j].ct);*/
 }
 void main()
 {
